@@ -10,5 +10,5 @@ package io.mj.montp;
  * @author mjombemo
  */
 public class Maclasse {
-    
+    //  mon commentaire
 }
